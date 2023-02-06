@@ -2,7 +2,7 @@
 This project was developed in collaboration with @aliejabbari.
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1ZeghAMRPV5uab6oXvbUgoEGdssJNja3B/view?usp=sharing" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1jxMkMuFW4qgECz_wkiYDnlAfhbJ7WPRv/view?usp=share_link" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
